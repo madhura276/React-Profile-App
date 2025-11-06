@@ -68,23 +68,41 @@ http://localhost:3000
 **📁 Folder Structure**
 
 react-profile-app/
+
 │
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── Home.js
+
 │   │   ├── Login.js
+
 │   │   ├── CreateProfile.js
+
 │   │   ├── Profile.js
+
 │   │   └── Navbar.js
+
 │   ├── App.js
+
 │   ├── App.css
+
 │   └── index.js
+
 │
+
 ├── package.json
+
 ├── README.md
+
 └── node_modules/
 
 **💬 Author**
+
 👑 Madhura (Shadow Queen)
+
 React Developer | AI & Data Science Enthusiast 💻
+
 ✨ "Creating interactive and beautiful web experiences with React."

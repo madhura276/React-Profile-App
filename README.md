@@ -2,7 +2,9 @@
 **Overview**
 
 The React Profile App is a simple web application that demonstrates user login, profile creation, and viewing — built using ReactJS.
+
 It uses React Router for navigation, state management for handling user data, and basic CSS styling to keep it clean and responsive.
+
 This project was developed as part of a class presentation to showcase practical use of React components, props, states, and routing.
 
 **Features**

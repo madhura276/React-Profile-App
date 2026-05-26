@@ -9,19 +9,19 @@ This project was developed as part of a class presentation to showcase practical
 
 **Features**
 
-🏠 Home Page: Welcoming interface with navigation links.
+ Home Page: Welcoming interface with navigation links.
 
-🔐 Login Page: Basic login form that validates user credentials.
+ Login Page: Basic login form that validates user credentials.
 
-🧍 Profile Creation Page: Allows users to create and submit their profile details.
+ Profile Creation Page: Allows users to create and submit their profile details.
 
-👤 Profile Page: Displays the created profile with a clean card layout.
+ Profile Page: Displays the created profile with a clean card layout.
 
-🚪 Logout: Securely logs the user out and redirects to the home page.
+ Logout: Securely logs the user out and redirects to the home page.
 
-🧭 Navbar: Makes it easy to navigate between pages.
+ Navbar: Makes it easy to navigate between pages.
 
-🎨 Responsive Design: Built with custom CSS for a simple yet modern look.
+ Responsive Design: Built with custom CSS for a simple yet modern look.
 
 **Tech Stack**
 
@@ -44,16 +44,16 @@ This project was developed as part of a class presentation to showcase practical
 
 # How to Run the Project
 
-1️⃣ Clone the repository
+1️. Clone the repository
 git clone https://github.com/madhura276/React-Profile-App.git
 
-2️⃣ Navigate into the project folder
+2️. Navigate into the project folder
 cd React-Profile-App
 
-3️⃣ Install dependencies
+3️. Install dependencies
 npm install
 
-4️⃣ Run the development server
+4️. Run the development server
 npm start
 
 Your app will open automatically in the browser at 👉
@@ -68,7 +68,7 @@ http://localhost:3000
 5. Click Logout to return to Home.
 Check Demo video here "https://www.linkedin.com/posts/madhura-gundluru_reactjs-webdevelopment-frontend-activity-7392203737206988800-3kn_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdWlXUBkXcMN-MGPwVbrT_0W226dwVeQ-4"
 
-**📁 Folder Structure**
+** Folder Structure**
 
 react-profile-app/
 
@@ -102,10 +102,3 @@ react-profile-app/
 
 └── node_modules/
 
-**💬 Author**
-
-👑 Madhura (Shadow Queen)
-
-React Developer | AI & Data Science Enthusiast 💻
-
-✨ "Creating interactive and beautiful web experiences with React."
